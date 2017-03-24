@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="editText1">Name</string>
+    <string name="editText">ID</string>
+    <string name="editText2">username</string>
+    <string name="editText4">password</string>
+    <string name="button">Registred</string>
+    <string name="editText6">password</string>
+    <string name="editText5">username</string>
+    <string name="button2">Login</string>
+    <string name="button3">Registration</string>
+</resources>
